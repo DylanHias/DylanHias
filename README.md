@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Dylan!
-Architect of the digital unknown. Building projects, apps and SaaS products from Antwerp, Belgium.
+Architect of the digital unknown. Building projects, mobile apps and SaaS products from Antwerp, Belgium.
 
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
