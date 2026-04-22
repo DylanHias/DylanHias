@@ -35,5 +35,5 @@ Architect of the digital unknown. Building projects, apps and SaaS products from
 **Currently:**
 - Building things on AWS (Lambda, DynamoDB, Bedrock, the usual suspects)
 - Creating side projects for personal use
-- Writing infra as code with Terraform and CDK
+- Writing infra as code with Terraform and the AWS CDK
 - Running a homelab that's probably over-engineered
