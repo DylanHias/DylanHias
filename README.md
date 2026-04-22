@@ -33,7 +33,7 @@ Architect of the digital unknown. Building projects, apps and SaaS products from
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
 
 **Currently:**
-- Building things on AWS (Lambda, DynamoDB, Bedrock, the usual suspects)
+- Building things on AWS (Lambda, DynamoDB, Bedrock, CloudFormation, the usual suspects)
 - Creating side projects for personal use
 - Writing infra as code with Terraform and the AWS CDK
 - Running a homelab that's probably over-engineered
