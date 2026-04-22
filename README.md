@@ -2,7 +2,7 @@
 Architect of the digital unknown. Building projects, apps and SaaS products from Antwerp, Belgium.
 
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)(#)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
@@ -26,13 +26,9 @@ Architect of the digital unknown. Building projects, apps and SaaS products from
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-Mostly work with AWS — picking the right services, keeping costs in check, and
-building environments that scale and stay secure. ☁️
-I like the problem-solving side of cloud: figuring out what actually fits,
-not just what's on the slide. 🫡
-
 **Currently:**
 - Building things on AWS (Lambda, DynamoDB, Bedrock, the usual suspects)
+- Creating side projects for personal use
 - Writing infra as code with Terraform and CDK
 - Running a homelab that's probably over-engineered
 
