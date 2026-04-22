@@ -26,14 +26,14 @@ Architect of the digital unknown. Building projects, apps and SaaS products from
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-**Currently:**
-- Building things on AWS (Lambda, DynamoDB, Bedrock, the usual suspects)
-- Creating side projects for personal use
-- Writing infra as code with Terraform and CDK
-- Running a homelab that's probably over-engineered
-
 🔭 Assisting enterprise businesses on transformative projects to reshape their infrastructure.
 
 🌱 Continuously learning and empowering others through mentorship and collaboration.
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+
+**Currently:**
+- Building things on AWS (Lambda, DynamoDB, Bedrock, the usual suspects)
+- Creating side projects for personal use
+- Writing infra as code with Terraform and CDK
+- Running a homelab that's probably over-engineered
